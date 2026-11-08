@@ -1,0 +1,45 @@
+{
+  "id": "ferdinand-karl-nd-2t-hat",
+  "title": {"ru": "Фердинанд Карл — 2 талера, в эрцгерцогской шапке", "en": "Ferdinand Charles — 2 Taler, in archducal hat"},
+  "ruler": {"ru": "Фердинанд Карл", "en": "Ferdinand Charles"},
+  "issuer": {"ru": "Графство Тироль (Габсбурги)", "en": "County of Tyrol (Habsburg)"},
+  "nominal": {"ru": "2 талера (вероятно)", "en": "2 Taler (probably)"},
+  "year": {"ru": "без даты, ок. 1654", "en": "undated, c. 1654"},
+  "mint": {"ru": "Халль", "en": "Hall"},
+  "metal": {"ru": "Серебро", "en": "Silver"},
+  "fineness": "",
+  "weight_g": 57,
+  "diameter_mm": 49,
+  "specs_source": "reference",
+  "edge": "",
+  "catalog": {"Dav": "3364 / 3364A", "KM": "985", "MT": "500 / 511"},
+  "legend": {
+    "obverse": "FERDINAND CAROL D G ARCHIDVX AVST",
+    "reverse": "DVX BVRGVNDIAE COMES TYROLIS"
+  },
+  "grade": {"scale": "Sheldon", "value": "MS-62", "service": "", "cert": ""},
+  "price": {"amount": 500000, "currency": "RUB", "show": true},
+  "status": "available",
+  "rarity": "",
+  "provenance": "",
+  "condition_notes": {
+    "ru": "Чистые поля, светлая поверхность с лёгким радужным отливом, острый рельеф.",
+    "en": "Clean fields, bright surface with a light iridescent sheen, sharp relief."
+  },
+  "description": {
+    "ru": "Эрцгерцог Фердинанд Карл (1632–1662). Бюст в доспехах и эрцгерцогской шапке, лавровый венок по кругу; на реверсе орёл с венком.",
+    "en": "Archduke Ferdinand Charles (1632–1662). Armoured bust wearing the archducal hat within a laurel wreath; on the reverse the eagle with a wreath."
+  },
+  "tags": ["талер", "Габсбурги", "Тироль", "Фердинанд Карл", "эрцгерцогская шапка"],
+  "links": [{"title": "Numista", "url": "https://en.numista.com/489872"}],
+  "media": {"obverse": "obverse.jpg", "reverse": "reverse.jpg", "sizes": [480, 960], "gallery": [], "videos": []},
+  "featured": false,
+  "order": 80,
+  "added": "2026-11-07",
+  "_check": [
+    "Номинал «2 талера» в каталоге помечен как вероятный.",
+    "Dav. 3364 / 3364A и MT 500 / 511 — подтип уточнить.",
+    "Вес и диаметр — эталон типа по справочникам, экземпляр не измерен.",
+    "Фото реверса подобрано по порядку съёмки (у трёх монет Фердинанда Карла одинаковый реверс) — проверить."
+  ]
+}

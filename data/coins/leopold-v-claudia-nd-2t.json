@@ -1,0 +1,43 @@
+{
+  "id": "leopold-v-claudia-nd-2t",
+  "title": {"ru": "Леопольд V и Клаудия Медичи — 2 талера", "en": "Leopold V and Claudia de' Medici — 2 Taler"},
+  "ruler": {"ru": "Леопольд V", "en": "Leopold V"},
+  "issuer": {"ru": "Графство Тироль (Габсбурги)", "en": "County of Tyrol (Habsburg)"},
+  "nominal": {"ru": "2 талера", "en": "2 Taler"},
+  "year": {"ru": "без даты; посмертный выпуск 1635 (свадебный тип 1626)", "en": "undated; posthumous issue 1635 (1626 wedding type)"},
+  "mint": {"ru": "Халль", "en": "Hall"},
+  "metal": {"ru": "Серебро", "en": "Silver"},
+  "fineness": "",
+  "weight_g": 57.5,
+  "diameter_mm": 47,
+  "specs_source": "reference",
+  "edge": "",
+  "catalog": {"Dav": "3331", "KM": "639", "MT": "487"},
+  "legend": {
+    "obverse": "LEOPOLDVS ARCHIDVX AVS ET CLAVDIA ARCHIDVCISA AVS MEDIC",
+    "reverse": "DVX BVRGVNDIAE COMES TIROLIS"
+  },
+  "grade": {"scale": "Sheldon", "value": "MS-62", "service": "", "cert": ""},
+  "price": {"amount": 500000, "currency": "RUB", "show": true},
+  "status": "available",
+  "rarity": "",
+  "provenance": "",
+  "condition_notes": {
+    "ru": "Синяя тонировка, чёткие рюши, мелкие контактные следы на лице.",
+    "en": "Blue toning, crisp ruffs, small contact marks on the face."
+  },
+  "description": {
+    "ru": "Эрцгерцог Леопольд V (1619–1632) и Клаудия Медичи. Сомкнутые коронованные портреты супругов; реверс — орёл с венком.",
+    "en": "Archduke Leopold V (1619–1632) and Claudia de' Medici. Jugate crowned busts of the couple; on the reverse the eagle with a wreath."
+  },
+  "tags": ["талер", "Габсбурги", "Тироль", "Леопольд V", "Клаудия Медичи", "свадебный"],
+  "links": [{"title": "Künker", "url": "https://kuenker.de/en/archiv/stueck/119197"}],
+  "media": {"obverse": "obverse.jpg", "reverse": "reverse.jpg", "sizes": [480, 960], "gallery": [], "videos": []},
+  "featured": true,
+  "order": 60,
+  "added": "2026-11-07",
+  "_check": [
+    "Каталоги предположительные: легенда совпадает с выпуском 1635 (Dav. 3331, KM 639, MT 487); для выпуска 1626 — Dav. 3332, MT 463.",
+    "Вес и диаметр — эталон типа по справочникам, экземпляр не измерен."
+  ]
+}

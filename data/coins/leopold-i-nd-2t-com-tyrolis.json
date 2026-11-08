@@ -1,0 +1,44 @@
+{
+  "id": "leopold-i-nd-2t-com-tyrolis",
+  "title": {"ru": "Леопольд I — 2 талера, львиная голова (COM TYROLIS)", "en": "Leopold I — 2 Taler, lion's head (COM TYROLIS)"},
+  "ruler": {"ru": "Леопольд I", "en": "Leopold I"},
+  "issuer": {"ru": "Графство Тироль (Габсбурги)", "en": "County of Tyrol (Habsburg)"},
+  "nominal": {"ru": "2 талера (вероятно; 3 талера при весе ≈83–86 г)", "en": "2 Taler (probably; 3 Taler if ≈83–86 g)"},
+  "year": {"ru": "без даты, 1686–1696", "en": "undated, 1686–1696"},
+  "mint": {"ru": "Халль", "en": "Hall"},
+  "metal": {"ru": "Серебро", "en": "Silver"},
+  "fineness": ".875",
+  "weight_g": "56–57",
+  "diameter_mm": "47–52",
+  "specs_source": "reference",
+  "edge": "",
+  "catalog": {"Dav": "3246–3253", "KM": "1120–1122", "MT": "708–711, 761"},
+  "legend": {
+    "obverse": "LEOPOLDVS D G ROM IMP S A G H B REX",
+    "reverse": "ARCHIDVX AVST DVX BV COM TYROLIS"
+  },
+  "grade": {"scale": "Sheldon", "value": "MS-62", "service": "", "cert": ""},
+  "price": {"amount": 500000, "currency": "RUB", "show": true},
+  "status": "available",
+  "rarity": "",
+  "provenance": "",
+  "condition_notes": {
+    "ru": "Сине-серая патина, острый рельеф, лёгкие неровности края.",
+    "en": "Blue-grey patina, sharp relief, slight rim irregularities."
+  },
+  "description": {
+    "ru": "Император Леопольд I (1657–1705). Лавровый венок, пышный парик, на плече львиная голова с лентами; реверс — тирольский орёл с венком.",
+    "en": "Emperor Leopold I (1657–1705). Laureate bust in a full wig with a beribboned lion's head on the shoulder; on the reverse the Tyrolean eagle with a wreath."
+  },
+  "tags": ["талер", "Габсбурги", "Тироль", "Леопольд I", "львиная голова"],
+  "links": [{"title": "Numista", "url": "https://en.numista.com/166771"}],
+  "media": {"obverse": "obverse.jpg", "reverse": "reverse.jpg", "sizes": [480, 960], "gallery": [], "videos": []},
+  "featured": false,
+  "order": 100,
+  "added": "2026-11-07",
+  "_check": [
+    "Номинал зависит от веса: 2 или 3 талера. Взвесить.",
+    "Dav. 3246–3253 — семейство, подтип и номинал уточнить по весу.",
+    "Вес и диаметр — диапазон для 2 талеров по справочникам, экземпляр не измерен."
+  ]
+}

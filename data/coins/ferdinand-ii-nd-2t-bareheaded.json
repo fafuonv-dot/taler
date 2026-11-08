@@ -1,0 +1,44 @@
+{
+  "id": "ferdinand-ii-nd-2t-bareheaded",
+  "title": {"ru": "Фердинанд II — 2 талера, портрет без головного убора", "en": "Ferdinand II — 2 Taler, bareheaded bust"},
+  "ruler": {"ru": "Фердинанд II", "en": "Ferdinand II"},
+  "issuer": {"ru": "Графство Тироль (Габсбурги)", "en": "County of Tyrol (Habsburg)"},
+  "nominal": {"ru": "2 талера (вероятно)", "en": "2 Taler (probably)"},
+  "year": {"ru": "без даты (1564–1595 или посмертный выпуск ок. 1601–1604)", "en": "undated (1564–1595 or posthumous issue c. 1601–1604)"},
+  "mint": {"ru": "Халль", "en": "Hall"},
+  "metal": {"ru": "Серебро", "en": "Silver"},
+  "fineness": "",
+  "weight_g": 57,
+  "diameter_mm": 47,
+  "specs_source": "reference",
+  "edge": "",
+  "catalog": {"Dav": "8116–8120"},
+  "legend": {
+    "obverse": "FERDINANDVS D G ARCHIDVX AVSTRIAE",
+    "reverse": "DVX BVRGVNDIAE COMES TIROLIS"
+  },
+  "grade": {"scale": "Sheldon", "value": "MS-62", "service": "", "cert": ""},
+  "price": {"amount": 500000, "currency": "RUB", "show": true},
+  "status": "available",
+  "rarity": "",
+  "provenance": "",
+  "condition_notes": {
+    "ru": "Чёткий рельеф, голубовато-серая патина, лёгкий износ высоких точек.",
+    "en": "Sharp relief, bluish-grey patina, light wear on the high points."
+  },
+  "description": {
+    "ru": "Эрцгерцог Фердинанд II (1564–1595). Бюст вправо с бородой и курчавыми волосами, без шапки; на реверсе орёл с венком над головой.",
+    "en": "Archduke Ferdinand II (1564–1595). Bearded bust right with curly hair, bareheaded; on the reverse the eagle with a wreath above its head."
+  },
+  "tags": ["талер", "Габсбурги", "Тироль", "Фердинанд II"],
+  "links": [],
+  "media": {"obverse": "obverse.jpg", "reverse": "reverse.jpg", "sizes": [480, 960], "gallery": [], "videos": []},
+  "featured": false,
+  "order": 20,
+  "added": "2026-11-07",
+  "_check": [
+    "Номинал «2 талера» в каталоге помечен как вероятный.",
+    "Dav. 8116–8120 — подтип уточнить.",
+    "Вес и диаметр — эталон типа по справочникам, экземпляр не измерен."
+  ]
+}

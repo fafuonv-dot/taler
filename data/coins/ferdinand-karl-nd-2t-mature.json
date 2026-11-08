@@ -1,0 +1,45 @@
+{
+  "id": "ferdinand-karl-nd-2t-mature",
+  "title": {"ru": "Фердинанд Карл — 2 талера, зрелый портрет", "en": "Ferdinand Charles — 2 Taler, mature portrait"},
+  "ruler": {"ru": "Фердинанд Карл", "en": "Ferdinand Charles"},
+  "issuer": {"ru": "Графство Тироль (Габсбурги)", "en": "County of Tyrol (Habsburg)"},
+  "nominal": {"ru": "2 талера (вероятно)", "en": "2 Taler (probably)"},
+  "year": {"ru": "без даты, ок. 1654", "en": "undated, c. 1654"},
+  "mint": {"ru": "Халль", "en": "Hall"},
+  "metal": {"ru": "Серебро", "en": "Silver"},
+  "fineness": "",
+  "weight_g": "56,5–57,2",
+  "diameter_mm": 49,
+  "specs_source": "reference",
+  "edge": "",
+  "catalog": {"Dav": "3363–3364A", "KM": "985/986"},
+  "legend": {
+    "obverse": "FERDINAND CAROL D G ARCHIDVX AVST",
+    "reverse": "DVX BVRGVNDIAE COMES TYROLIS"
+  },
+  "grade": {"scale": "Sheldon", "value": "MS-62", "service": "", "cert": ""},
+  "price": {"amount": 500000, "currency": "RUB", "show": true},
+  "status": "available",
+  "rarity": "",
+  "provenance": "",
+  "condition_notes": {
+    "ru": "Яркая радужная тонировка (синий, фиолетовый, оранжевый), мелкие царапины в поле, неровный край.",
+    "en": "Vivid rainbow toning (blue, violet, orange), small field scratches, irregular rim."
+  },
+  "description": {
+    "ru": "Эрцгерцог Фердинанд Карл (1632–1662). Портрет без короны в лавровом кольце; на реверсе орёл с венком.",
+    "en": "Archduke Ferdinand Charles (1632–1662). Bareheaded portrait within a laurel ring; on the reverse the eagle with a wreath."
+  },
+  "tags": ["талер", "Габсбурги", "Тироль", "Фердинанд Карл", "тонировка"],
+  "links": [{"title": "Numista", "url": "https://en.numista.com/489872"}],
+  "media": {"obverse": "obverse.jpg", "reverse": "reverse.jpg", "sizes": [480, 960], "gallery": [], "videos": []},
+  "featured": false,
+  "order": 70,
+  "added": "2026-11-07",
+  "_check": [
+    "Номинал «2 талера» в каталоге помечен как вероятный.",
+    "Dav. 3363–3364A — подтип уточнить.",
+    "Вес и диаметр — эталон типа по справочникам, экземпляр не измерен.",
+    "Фото реверса подобрано по порядку съёмки (у трёх монет Фердинанда Карла одинаковый реверс) — проверить."
+  ]
+}

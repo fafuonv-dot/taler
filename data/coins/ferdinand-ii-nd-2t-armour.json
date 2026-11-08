@@ -1,0 +1,44 @@
+{
+  "id": "ferdinand-ii-nd-2t-armour",
+  "title": {"ru": "Фердинанд II — 2 талера, ок. 1601–1604", "en": "Ferdinand II — 2 Taler, c. 1601–1604"},
+  "ruler": {"ru": "Фердинанд II", "en": "Ferdinand II"},
+  "issuer": {"ru": "Графство Тироль (Габсбурги)", "en": "County of Tyrol (Habsburg)"},
+  "nominal": {"ru": "2 талера (вероятно)", "en": "2 Taler (probably)"},
+  "year": {"ru": "без даты, ок. 1601–1604 (посмертный выпуск)", "en": "undated, c. 1601–1604 (posthumous issue)"},
+  "mint": {"ru": "Халль", "en": "Hall"},
+  "metal": {"ru": "Серебро", "en": "Silver"},
+  "fineness": "",
+  "weight_g": 57,
+  "diameter_mm": 47,
+  "specs_source": "reference",
+  "edge": "",
+  "catalog": {"Dav": "8109–8118"},
+  "legend": {
+    "obverse": "FERDINANDVS D G ARCHIDVX AVSTR",
+    "reverse": "DVX BVRGVNDIAE COMES TIROLI"
+  },
+  "grade": {"scale": "Sheldon", "value": "MS-62", "service": "", "cert": ""},
+  "price": {"amount": 500000, "currency": "RUB", "show": true},
+  "status": "available",
+  "rarity": "",
+  "provenance": "",
+  "condition_notes": {
+    "ru": "Сине-серая патина, рельеф лица сглажен.",
+    "en": "Blue-grey patina, softly struck face."
+  },
+  "description": {
+    "ru": "Эрцгерцог Фердинанд II (1564–1595). Полуфигура в доспехах и лавровом венке со скипетром; на реверсе коронованный тирольский орёл.",
+    "en": "Archduke Ferdinand II (1564–1595). Half-length armoured figure, laureate, holding a sceptre; on the reverse the crowned Tyrolean eagle."
+  },
+  "tags": ["талер", "Габсбурги", "Тироль", "Фердинанд II", "посмертный выпуск"],
+  "links": [{"title": "CoinVarieties", "url": "https://coinvarieties.com/index.php/Austria_(1564-95)_2_thaler_Dav-8118"}],
+  "media": {"obverse": "obverse.jpg", "reverse": "reverse.jpg", "sizes": [480, 960], "gallery": [], "videos": []},
+  "featured": false,
+  "order": 10,
+  "added": "2026-11-07",
+  "_check": [
+    "Номинал «2 талера» в каталоге помечен как вероятный.",
+    "Dav. 8109–8118 — подтип уточнить.",
+    "Вес и диаметр — эталон типа по справочникам, экземпляр не измерен."
+  ]
+}

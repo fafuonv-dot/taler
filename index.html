@@ -1,0 +1,85 @@
+<!doctype html>
+<html lang="ru" data-theme="dark">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>Талеры Габсбургов — частная коллекция</title>
+  <meta name="description" content="Тирольские талеры Габсбургов, монетный двор Халль, 1564–1740: фото, характеристики, сохранность по Шелдону.">
+  <meta name="theme-color" content="#111113">
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="Талеры Габсбургов — частная коллекция">
+  <meta property="og:description" content="Тирольские талеры Габсбургов, монетный двор Халль, 1564–1740.">
+  <meta property="og:image" content="assets/og-image.jpg">
+  <meta property="og:image:width" content="1200">
+  <meta property="og:image:height" content="630">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:image" content="assets/og-image.jpg">
+  <link rel="apple-touch-icon" href="assets/icons/apple-touch-icon.png">
+  <link rel="manifest" href="manifest.webmanifest">
+  <link rel="icon" href="assets/icons/coin.svg" type="image/svg+xml">
+  <link rel="preload" href="assets/fonts/cormorant-cyr-500.woff2" as="font" type="font/woff2" crossorigin>
+  <link rel="preload" href="assets/fonts/inter-cyr-var.woff2" as="font" type="font/woff2" crossorigin>
+  <link rel="stylesheet" href="assets/theme.css">
+  <link rel="stylesheet" href="assets/app.css">
+  <script>
+    // Тема выставляется до отрисовки, чтобы страница не мигала.
+    try { var t = localStorage.getItem('theme'); if (t) document.documentElement.dataset.theme = t; } catch (e) {}
+  </script>
+</head>
+<body>
+  <a class="skip-link" href="#app" data-i18n="skip">Перейти к содержимому</a>
+
+  <header class="site-header">
+    <div class="container header-bar">
+      <a class="brand" href="#/">
+        <svg class="brand-mark" viewBox="0 0 40 40" aria-hidden="true" fill="none" stroke="currentColor" stroke-width="1.4">
+          <circle cx="20" cy="20" r="18.5"/><circle cx="20" cy="20" r="14.5" stroke-dasharray="1.2 2.1"/>
+          <path d="M14 25.5V15l6 5.5 6-5.5v10.5" stroke-linejoin="round"/>
+        </svg>
+        <span class="brand-text">
+          <span class="brand-title" id="brand-title">Талеры Габсбургов</span>
+          <span class="brand-sub" id="brand-sub">Тироль · монетный двор Халль</span>
+        </span>
+      </a>
+
+      <form class="search" role="search" id="search-form">
+        <label class="visually-hidden" for="q" data-i18n="search.label">Поиск по коллекции</label>
+        <svg class="search-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg>
+        <input id="q" type="search" autocomplete="off" spellcheck="false" enterkeyhint="search" placeholder="Правитель, год, Dav. 3336…">
+        <button class="icon-btn search-clear" type="button" id="q-clear" hidden>
+          <span class="visually-hidden" data-i18n="search.clear">Очистить поиск</span>
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="M6 6l12 12M18 6 6 18"/></svg>
+        </button>
+      </form>
+
+      <div class="header-tools">
+        <select id="currency" class="currency-select" hidden aria-label="Валюта"></select>
+        <button class="icon-btn lang-btn" type="button" id="lang-btn" aria-label="English version">EN</button>
+        <button class="icon-btn" type="button" id="theme-btn" aria-label="Включить светлую тему">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" aria-hidden="true"><path d="M20 14.5A8 8 0 0 1 9.5 4a8 8 0 1 0 10.5 10.5Z"/></svg>
+        </button>
+      </div>
+    </div>
+  </header>
+
+  <main id="app" tabindex="-1">
+    <!-- Скелетон, пока грузятся данные -->
+    <div class="container" aria-busy="true">
+      <div class="skeleton skeleton-hero"></div>
+      <div class="grid">
+        <div class="skeleton skeleton-card"></div><div class="skeleton skeleton-card"></div><div class="skeleton skeleton-card"></div>
+      </div>
+    </div>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container">
+      <span id="footer-title">Талеры Габсбургов</span>
+      <span id="footer-note" data-i18n="footer.note">Каталожные номера указаны по описаниям типов. Сохранность — по шкале Шелдона.</span>
+    </div>
+  </footer>
+
+  <noscript><p class="container">Для просмотра каталога включите JavaScript.</p></noscript>
+  <script type="module" src="assets/js/app.js"></script>
+</body>
+</html>

@@ -1,0 +1,44 @@
+{
+  "id": "leopold-i-nd-2t-co-tyro",
+  "title": {"ru": "Леопольд I — 2 талера (CO TYRO)", "en": "Leopold I — 2 Taler (CO TYRO)"},
+  "ruler": {"ru": "Леопольд I", "en": "Leopold I"},
+  "issuer": {"ru": "Графство Тироль (Габсбурги)", "en": "County of Tyrol (Habsburg)"},
+  "nominal": {"ru": "2 талера (вероятно; 3 талера при весе ≈83–86 г)", "en": "2 Taler (probably; 3 Taler if ≈83–86 g)"},
+  "year": {"ru": "без даты, ок. 1691–1692", "en": "undated, c. 1691–1692"},
+  "mint": {"ru": "Халль", "en": "Hall"},
+  "metal": {"ru": "Серебро", "en": "Silver"},
+  "fineness": ".875",
+  "weight_g": "56–57",
+  "diameter_mm": "47–52",
+  "specs_source": "reference",
+  "edge": "",
+  "catalog": {"Dav": "3246–3248", "KM": "1122.1 / 1122.2", "MT": "708 / 761"},
+  "legend": {
+    "obverse": "LEOPOLDVS D G ROM IMP S A G H B REX",
+    "reverse": "ARCHIDVX AVST DVX BV CO TYRO"
+  },
+  "grade": {"scale": "Sheldon", "value": "MS-62", "service": "", "cert": ""},
+  "price": {"amount": 500000, "currency": "RUB", "show": true},
+  "status": "available",
+  "rarity": "",
+  "provenance": "",
+  "condition_notes": {
+    "ru": "Светлая поверхность, лёгкий износ рельефа, мелкие вмятины на гурте.",
+    "en": "Bright surface, light wear to the relief, small edge dents."
+  },
+  "description": {
+    "ru": "Император Леопольд I (1657–1705). Молодой лавровый портрет, на плече львиная голова; реверс с венком из крупных листьев.",
+    "en": "Emperor Leopold I (1657–1705). Young laureate portrait with a lion's head on the shoulder; reverse with a wreath of large leaves."
+  },
+  "tags": ["талер", "Габсбурги", "Тироль", "Леопольд I", "львиная голова"],
+  "links": [{"title": "Numista", "url": "https://en.numista.com/166771"}],
+  "media": {"obverse": "obverse.jpg", "reverse": "reverse.jpg", "sizes": [480, 960], "gallery": [], "videos": []},
+  "featured": false,
+  "order": 110,
+  "added": "2026-11-07",
+  "_check": [
+    "Номинал зависит от веса: 2 или 3 талера. Взвесить.",
+    "Каталоги по Numista — сверить (Dav. 3246–3248; KM 1122.1 / 1122.2; MT 708 / 761).",
+    "Вес и диаметр — диапазон для 2 талеров по справочникам, экземпляр не измерен."
+  ]
+}

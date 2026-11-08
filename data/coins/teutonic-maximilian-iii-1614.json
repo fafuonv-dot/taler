@@ -1,0 +1,43 @@
+{
+  "id": "teutonic-maximilian-iii-1614",
+  "title": {"ru": "Тевтонский орден, Максимилиан III — 1614", "en": "Teutonic Order, Maximilian III — 1614"},
+  "ruler": {"ru": "Максимилиан III", "en": "Maximilian III"},
+  "issuer": {"ru": "Тевтонский орден (чеканка в Халле)", "en": "Teutonic Order (struck at Hall)"},
+  "nominal": {"ru": "2 талера (вероятно; 3 талера при весе ≈85 г)", "en": "2 Taler (probably; 3 Taler if ≈85 g)"},
+  "year": "1614",
+  "mint": {"ru": "Халль", "en": "Hall"},
+  "metal": {"ru": "Серебро", "en": "Silver"},
+  "fineness": "",
+  "weight_g": 57,
+  "diameter_mm": 46,
+  "specs_source": "reference",
+  "edge": "",
+  "catalog": {"Dav": "A5854", "KM": "30", "Prokisch": "59"},
+  "legend": {
+    "obverse": "MAX DG AR AV D B MA PRVSS ADMI",
+    "reverse": ""
+  },
+  "grade": {"scale": "Sheldon", "value": "MS-62", "service": "", "cert": ""},
+  "price": {"amount": 500000, "currency": "RUB", "show": true},
+  "status": "available",
+  "rarity": {"ru": "Редкий тип (по описаниям аукционов)", "en": "Rare type (per auction descriptions)"},
+  "provenance": "",
+  "condition_notes": {
+    "ru": "Лицо стёрто, поверхность шероховатая, на реверсе трещины.",
+    "en": "Worn face, rough surface, cracks on the reverse."
+  },
+  "description": {
+    "ru": "Эрцгерцог Максимилиан III, гроссмейстер Тевтонского ордена (1590–1618). Стоящий гроссмейстер с мечом, слева щит со львом, справа турнирный шлем, год 1614 в отрезе; на реверсе всадник в кольце гербов земель.",
+    "en": "Archduke Maximilian III, Grand Master of the Teutonic Order (1590–1618). Standing Grand Master with a sword, lion shield to the left, tournament helmet to the right, date 1614 in exergue; on the reverse a horseman within a ring of territorial arms."
+  },
+  "tags": ["талер", "Габсбурги", "Тевтонский орден", "Максимилиан III", "всадник", "гербы"],
+  "links": [{"title": "CoinVarieties", "url": "https://coinvarieties.com/index.php/Teutonic_Order_1614_2_thaler_Dav-A5854"}],
+  "media": {"obverse": "obverse.jpg", "reverse": "reverse.jpg", "sizes": [480, 960], "gallery": [], "videos": []},
+  "featured": true,
+  "order": 40,
+  "added": "2026-11-07",
+  "_check": [
+    "Номинал зависит от веса: 2 талера ≈57 г (Dav. A5854) или 3 талера ≈85 г (Dav. B5854). Взвесить и поправить номинал и Dav.",
+    "Вес и диаметр указаны для 2 талеров — эталон типа, экземпляр не измерен."
+  ]
+}

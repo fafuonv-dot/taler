@@ -1,0 +1,44 @@
+{
+  "id": "charles-vi-nd-2t",
+  "title": {"ru": "Карл VI — 2 талера", "en": "Charles VI — 2 Taler"},
+  "ruler": {"ru": "Карл VI", "en": "Charles VI"},
+  "issuer": {"ru": "Графство Тироль (Габсбурги)", "en": "County of Tyrol (Habsburg)"},
+  "nominal": {"ru": "2 талера (вероятно)", "en": "2 Taler (probably)"},
+  "year": {"ru": "без даты (1711–1740)", "en": "undated (1711–1740)"},
+  "mint": {"ru": "Халль", "en": "Hall"},
+  "metal": {"ru": "Серебро", "en": "Silver"},
+  "fineness": ".875",
+  "weight_g": 57.3,
+  "diameter_mm": 47,
+  "specs_source": "reference",
+  "edge": "",
+  "catalog": {"Dav": "1049", "KM": "1523", "Herinek": "281"},
+  "legend": {
+    "obverse": "CAROLUS VI D G RO IMP S A G H H B REX",
+    "reverse": "ARCHIDVX AVSTRIAE DVX BVRGVNDIAE COM TYR"
+  },
+  "grade": {"scale": "Sheldon", "value": "MS-62", "service": "", "cert": ""},
+  "price": {"amount": 500000, "currency": "RUB", "show": true},
+  "status": "available",
+  "rarity": "",
+  "provenance": "",
+  "condition_notes": {
+    "ru": "Чистые поля, голубоватая патина, острый рельеф.",
+    "en": "Clean fields, bluish patina, sharp relief."
+  },
+  "description": {
+    "ru": "Барочный портрет в парике-аллонж, на реверсе коронованный двуглавый орёл с мечом и скипетром; широкий ободок с крупной насечкой.",
+    "en": "Baroque portrait in a full-bottomed wig; on the reverse a crowned double-headed eagle with sword and sceptre; broad rim with coarse beading."
+  },
+  "tags": ["талер", "Габсбурги", "Тироль", "Карл VI", "двуглавый орёл"],
+  "links": [],
+  "media": {"obverse": "obverse.jpg", "reverse": "reverse.jpg", "sizes": [480, 960], "gallery": [], "videos": []},
+  "featured": true,
+  "order": 130,
+  "added": "2026-11-07",
+  "_check": [
+    "Номинал «2 талера» в каталоге помечен как вероятный.",
+    "Каталожные номера (Dav. 1049; KM 1523; Herinek 281) — по описанию аукциона, сверить.",
+    "Вес и диаметр — эталон типа по справочникам, экземпляр не измерен."
+  ]
+}

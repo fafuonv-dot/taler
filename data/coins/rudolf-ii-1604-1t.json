@@ -1,0 +1,44 @@
+{
+  "id": "rudolf-ii-1604-1t",
+  "title": {"ru": "Рудольф II — талер 1604", "en": "Rudolf II — Taler 1604"},
+  "ruler": {"ru": "Рудольф II", "en": "Rudolf II"},
+  "issuer": {"ru": "Графство Тироль (Габсбурги), чеканка императора", "en": "County of Tyrol (Habsburg), imperial issue"},
+  "nominal": {"ru": "1 талер", "en": "1 Taler"},
+  "year": "1604",
+  "mint": {"ru": "Халль", "en": "Hall"},
+  "metal": {"ru": "Серебро", "en": "Silver"},
+  "fineness": ".9375",
+  "weight_g": 28.8,
+  "diameter_mm": 41,
+  "specs_source": "reference",
+  "edge": "",
+  "catalog": {"Dav": "3005", "KM": "37.1", "MT": "375"},
+  "legend": {
+    "obverse": "RVDOLFVS II D G ROM IM SEM AV GER HVN BO REX",
+    "reverse": "NEC NON ARCHIDVCES AVSTRIAE DVC BVR CO TIROL"
+  },
+  "grade": {"scale": "Sheldon", "value": "MS-62", "service": "", "cert": ""},
+  "price": {"amount": 500000, "currency": "RUB", "show": true},
+  "status": "available",
+  "rarity": "",
+  "provenance": "",
+  "condition_notes": {
+    "ru": "Яркая поверхность, волосная царапина в поле, вмятина на гурте слева.",
+    "en": "Bright surface, a hairline scratch in the field, an edge dent on the left."
+  },
+  "description": {
+    "ru": "Лавровый венок, рюш, богатый доспех; на реверсе коронованный щит в цепи ордена Золотого руна.",
+    "en": "Laureate bust with ruff and ornate armour; on the reverse a crowned shield within the collar of the Order of the Golden Fleece."
+  },
+  "tags": ["талер", "Габсбурги", "Тироль", "Рудольф II", "Золотое руно"],
+  "links": [{"title": "Numista", "url": "https://en.numista.com/33509"}],
+  "media": {"obverse": "obverse.jpg", "reverse": "reverse.jpg", "sizes": [480, 960], "gallery": [], "videos": []},
+  "featured": false,
+  "order": 30,
+  "added": "2026-11-07",
+  "_check": [
+    "Каталожные номера даны по типу, подтип уточнить (Dav. 3005; KM 37.1; MT 375).",
+    "Проба .9375 — по Numista, сверить.",
+    "Вес и диаметр — эталон типа по справочникам, экземпляр не измерен."
+  ]
+}

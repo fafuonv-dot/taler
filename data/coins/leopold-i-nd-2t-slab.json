@@ -1,0 +1,44 @@
+{
+  "id": "leopold-i-nd-2t-slab",
+  "title": {"ru": "Леопольд I — 2 талера в слабе", "en": "Leopold I — 2 Taler, slabbed"},
+  "ruler": {"ru": "Леопольд I", "en": "Leopold I"},
+  "issuer": {"ru": "Графство Тироль (Габсбурги)", "en": "County of Tyrol (Habsburg)"},
+  "nominal": {"ru": "2 талера (вероятно)", "en": "2 Taler (probably)"},
+  "year": {"ru": "без даты, 1686–1696", "en": "undated, 1686–1696"},
+  "mint": {"ru": "Халль", "en": "Hall"},
+  "metal": {"ru": "Серебро", "en": "Silver"},
+  "fineness": ".875",
+  "weight_g": "56–57",
+  "diameter_mm": "47–52",
+  "specs_source": "reference",
+  "edge": "",
+  "catalog": {"Dav": "3252–3253"},
+  "legend": {
+    "obverse": "LEOPOLDVS D G ROM IMP S A G H B REX",
+    "reverse": "ARCHIDVX AVST DVX BV COM TYROLIS"
+  },
+  "grade": {"scale": "Sheldon", "value": "MS-62", "service": "", "cert": ""},
+  "price": {"amount": 500000, "currency": "RUB", "show": true},
+  "status": "available",
+  "rarity": "",
+  "provenance": "",
+  "condition_notes": {
+    "ru": "В пластиковом слабе. Тёмно-серая патина с синим отливом, мелкие тёмные раковины на парике.",
+    "en": "Encapsulated in a plastic slab. Dark grey patina with blue tones, small dark pits in the wig."
+  },
+  "description": {
+    "ru": "Император Леопольд I (1657–1705). Лавровый портрет в пышном парике, реверс — орёл в венке.",
+    "en": "Emperor Leopold I (1657–1705). Laureate portrait in a full wig; on the reverse the eagle within a wreath."
+  },
+  "tags": ["талер", "Габсбурги", "Тироль", "Леопольд I", "слаб"],
+  "links": [{"title": "Numista", "url": "https://en.numista.com/166771"}],
+  "media": {"obverse": "obverse.jpg", "reverse": "reverse.jpg", "sizes": [480, 960], "gallery": [], "videos": []},
+  "featured": false,
+  "order": 120,
+  "added": "2026-11-07",
+  "_check": [
+    "Монета в слабе: вписать службу (NGC/PCGS), номер сертификата и грейд с этикетки в поле grade.",
+    "Dav. 3252–3253 — предположительно, сверить с этикеткой слаба.",
+    "Вес и диаметр — диапазон для 2 талеров по справочникам, экземпляр не измерен."
+  ]
+}

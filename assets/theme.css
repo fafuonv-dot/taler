@@ -1,0 +1,88 @@
+/* Все цвета, шрифты, отступы и размеры сайта — только здесь.
+   Акцентный цвет можно поменять и без правки CSS: поле theme.accent в data/site.config.json. */
+
+@font-face { font-family: "Cormorant"; font-style: normal; font-weight: 500; font-display: swap;
+  src: url("fonts/cormorant-cyr-500.woff2") format("woff2");
+  unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116; }
+@font-face { font-family: "Cormorant"; font-style: normal; font-weight: 500; font-display: swap;
+  src: url("fonts/cormorant-lat-500.woff2") format("woff2");
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+20AC, U+2122, U+2212, U+FEFF, U+FFFD; }
+@font-face { font-family: "Cormorant"; font-style: normal; font-weight: 600; font-display: swap;
+  src: url("fonts/cormorant-cyr-600.woff2") format("woff2");
+  unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116; }
+@font-face { font-family: "Cormorant"; font-style: normal; font-weight: 600; font-display: swap;
+  src: url("fonts/cormorant-lat-600.woff2") format("woff2");
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+20AC, U+2122, U+2212, U+FEFF, U+FFFD; }
+@font-face { font-family: "InterVar"; font-style: normal; font-weight: 100 900; font-display: swap;
+  src: url("fonts/inter-cyr-var.woff2") format("woff2");
+  unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116; }
+@font-face { font-family: "InterVar"; font-style: normal; font-weight: 100 900; font-display: swap;
+  src: url("fonts/inter-lat-var.woff2") format("woff2");
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+20AC, U+2122, U+2212, U+FEFF, U+FFFD; }
+
+:root {
+  /* Шрифты */
+  --font-serif: "Cormorant", "Cormorant Garamond", Georgia, "Times New Roman", serif;
+  --font-sans: "InterVar", "Segoe UI", system-ui, -apple-system, Roboto, Arial, sans-serif;
+
+  /* Тёмная тема (по умолчанию): графит, тёплый off-white, старое золото */
+  --bg: #111113;
+  --bg-elevated: #18181b;
+  --surface: #1c1c20;
+  --surface-2: #24242a;
+  --line: #2f2f36;
+  --line-strong: #44444c;
+  --text: #ede7db;
+  --text-muted: #a8a296;
+  --accent: #c6a468;
+  --accent-strong: #d8b97f;
+  --accent-ink: #17140e;
+  --stage: radial-gradient(120% 90% at 50% 35%, #2b2b30 0%, #1b1b1f 55%, #141416 100%);
+  --sold: #d98c7a;
+  --reserved: #d9b86a;
+  --available: #9cc3a0;
+  --shadow-soft: 0 18px 40px -18px rgb(0 0 0 / 0.65), 0 2px 6px rgb(0 0 0 / 0.25);
+  --shadow-coin: 0 30px 50px -22px rgb(0 0 0 / 0.75);
+  --overlay: rgb(8 8 10 / 0.72);
+
+  /* Отступы */
+  --s-1: 4px; --s-2: 8px; --s-3: 12px; --s-4: 16px; --s-5: 24px;
+  --s-6: 32px; --s-7: 48px; --s-8: 64px; --s-9: 96px;
+  --gutter: clamp(16px, 4vw, 40px);
+  --container: 1240px;
+
+  /* Размеры текста */
+  --fs-xs: 0.8125rem; --fs-sm: 0.875rem; --fs-md: 1rem; --fs-lg: 1.125rem;
+  --fs-h3: 1.5rem; --fs-h2: clamp(1.9rem, 1.4rem + 2vw, 2.6rem);
+  --fs-h1: clamp(2.6rem, 1.6rem + 4.2vw, 4.6rem);
+
+  /* Формы и движение */
+  --radius: 14px; --radius-sm: 8px; --radius-pill: 999px;
+  --tap: 44px;
+  --ease: cubic-bezier(.2, .7, .2, 1);
+  --t-fast: 160ms; --t: 280ms; --t-slow: 400ms;
+
+  color-scheme: dark;
+}
+
+:root[data-theme="light"] {
+  --bg: #f4f0e8;
+  --bg-elevated: #fbf8f2;
+  --surface: #ffffff;
+  --surface-2: #efe9de;
+  --line: #e0d8ca;
+  --line-strong: #c9bfae;
+  --text: #1d1b18;
+  --text-muted: #5c564c;
+  --accent: #7a5a22;
+  --accent-strong: #614616;
+  --accent-ink: #fffaf0;
+  --stage: radial-gradient(120% 90% at 50% 35%, #f3efe8 0%, #e4dfd6 60%, #d9d3c8 100%);
+  --sold: #9b3b28;
+  --reserved: #7d5a10;
+  --available: #2f6a3a;
+  --shadow-soft: 0 18px 40px -22px rgb(60 45 20 / 0.35), 0 2px 6px rgb(60 45 20 / 0.08);
+  --shadow-coin: 0 30px 46px -24px rgb(40 30 15 / 0.55);
+  --overlay: rgb(30 26 20 / 0.6);
+  color-scheme: light;
+}

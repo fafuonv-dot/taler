@@ -1,0 +1,43 @@
+{
+  "id": "leopold-v-1626-2t",
+  "title": {"ru": "Леопольд V — 2 талера 1626", "en": "Leopold V — 2 Taler 1626"},
+  "ruler": {"ru": "Леопольд V", "en": "Leopold V"},
+  "issuer": {"ru": "Графство Тироль (Габсбурги)", "en": "County of Tyrol (Habsburg)"},
+  "nominal": {"ru": "2 талера", "en": "2 Taler"},
+  "year": "1626",
+  "mint": {"ru": "Халль", "en": "Hall"},
+  "metal": {"ru": "Серебро", "en": "Silver"},
+  "fineness": "",
+  "weight_g": 57,
+  "diameter_mm": 46,
+  "specs_source": "reference",
+  "edge": "",
+  "catalog": {"Dav": "3336", "KM": "609.2", "MT": "459b"},
+  "legend": {
+    "obverse": "LEOPOLDVS D G ARCHIDVX AVSTRI",
+    "reverse": "DVX BVRGVNDIAE COMES TIROL"
+  },
+  "grade": {"scale": "Sheldon", "value": "MS-62", "service": "", "cert": ""},
+  "price": {"amount": 500000, "currency": "RUB", "show": true},
+  "status": "available",
+  "rarity": {"ru": "Однолетний тип", "en": "One-year type"},
+  "provenance": "",
+  "condition_notes": {
+    "ru": "Тёмная патина с радужным краем, ржавые пятна по легенде.",
+    "en": "Dark patina with an iridescent rim, rust spots along the legend."
+  },
+  "description": {
+    "ru": "Коронованная полуфигура со скипетром на плече; реверс — тирольский орёл с венком.",
+    "en": "Crowned half-length figure with a sceptre over the shoulder; on the reverse the Tyrolean eagle with a wreath."
+  },
+  "tags": ["талер", "Габсбурги", "Тироль", "Леопольд V"],
+  "links": [{"title": "Numista", "url": "https://en.numista.com/33505"}],
+  "media": {"obverse": "obverse.jpg", "reverse": "reverse.jpg", "sizes": [480, 960], "gallery": [], "videos": []},
+  "featured": true,
+  "order": 50,
+  "added": "2026-11-07",
+  "_check": [
+    "Вес и диаметр — эталон типа по справочникам, экземпляр не измерен.",
+    "Проба в каталоге не указана."
+  ]
+}

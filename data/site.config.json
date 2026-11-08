@@ -1,0 +1,52 @@
+{
+  "title": {
+    "ru": "Талеры Габсбургов",
+    "en": "Habsburg Talers"
+  },
+  "subtitle": {
+    "ru": "Тироль · монетный двор Халль",
+    "en": "Tyrol · Hall mint"
+  },
+  "about": {
+    "ru": "Тирольские талеры Габсбургов, отчеканенные на монетном дворе Халль в 1564–1740 годах. У каждой монеты — фото аверса и реверса, определение по каталогам и сохранность по шкале Шелдона.",
+    "en": "Tyrolean talers of the Habsburgs, struck at the Hall mint between 1564 and 1740. Every coin comes with obverse and reverse photos, catalogue attribution and a Sheldon grade."
+  },
+  "logo": "",
+  "theme": {
+    "default": "dark",
+    "accent": ""
+  },
+  "languages": [
+    "ru",
+    "en"
+  ],
+  "defaultLanguage": "ru",
+  "currency": "RUB",
+  "rates": {
+    "USD": 0,
+    "EUR": 0
+  },
+  "url": "",
+  "prices": "show",
+  "contact": {
+    "telegram": "",
+    "whatsapp": "",
+    "phone": "",
+    "email": ""
+  },
+  "sharePages": [
+    "ferdinand-ii-nd-2t-armour",
+    "ferdinand-ii-nd-2t-bareheaded",
+    "rudolf-ii-1604-1t",
+    "teutonic-maximilian-iii-1614",
+    "leopold-v-1626-2t",
+    "leopold-v-claudia-nd-2t",
+    "ferdinand-karl-nd-2t-mature",
+    "ferdinand-karl-nd-2t-hat",
+    "ferdinand-karl-nd-2t-young",
+    "leopold-i-nd-2t-com-tyrolis",
+    "leopold-i-nd-2t-co-tyro",
+    "leopold-i-nd-2t-slab",
+    "charles-vi-nd-2t"
+  ]
+}
